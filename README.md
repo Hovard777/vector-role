@@ -1,5 +1,6 @@
 # vector-role for Centos 7  
 ============================
+
 Роль устанавливает vector на CentOS 7.
 
 ## Example playbook

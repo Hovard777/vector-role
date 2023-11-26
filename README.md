@@ -1,4 +1,4 @@
-# vector-role for Centos 7
+# vector-role for Centos 7  
 ============================
 Роль устанавливает vector на CentOS 7.
 
